@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Rathod</h1>
-<h3 align="center">  I am Yash a Final Year B.Tech student at Nirma University, specializing in Computer Science and Engineering. In 2021, I completed my Diploma studies, Presenting a foundation in back-end Development,Networking,Network Security,Full stack Development,cloud computing, and problem-solving. Committed to achieving my career goals, I prioritize continuous learning, maintain work ethics, manage time effectively.</h3>
+<h3 align="center">  I am Yash a B.Tech Graduate From Nirma University, specializing in Computer Science and Engineering. In 2021, I completed my Diploma studies, Presenting a foundation in Back-end Development, Network Security, Full stack Development, Cloud computing, and Problem-solving. Committed to achieving my career goals, I prioritize continuous learning, maintain work ethics, manage time effectively.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
